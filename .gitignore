@@ -1,0 +1,6 @@
+debug
+.idea
+dataset_fruit_veg/raw
+dataset_fruit_veg/test
+dataset_fruit_veg/train
+output_dir_pretrained
